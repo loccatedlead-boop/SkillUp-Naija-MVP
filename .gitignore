@@ -1,0 +1,19 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+generated_plugin_registrant.dart
+
+# IDEs
+.idea/
+.vscode/
+
+# Others
+*.iml
+*.log
+*.lock
+*.class
+*.DS_Store
